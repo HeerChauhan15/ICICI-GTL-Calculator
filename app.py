@@ -23,7 +23,7 @@ st.set_page_config(
 st.title("💰 ICICI GTL Calculator")
 
 st.markdown(
-    "Upload any insurance Excel file for premium calculation"
+    "Upload any Insurance Excel file for premium calculation"
 )
 
 # ============================================
